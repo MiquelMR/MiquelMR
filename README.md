@@ -1,10 +1,10 @@
-Hello, I’m @MiquelMR, a software developer based on Alicante, a sunny city in south east Spain☀️.
+Hello, I’m @MiquelMR, a software developer based in Alicante, a sunny city in southeast Spain☀️.
  
-I’m currently working with several software languages and environments around software development, machine learning, and big data, and as many of us, I like to learn by practice, so I have written some code which I want to share.
+I’m currently working with several programming languages and environments in the fields of software development, machine learning, and big data, and like many of us, I like to learn by practice, so I have written some code that I want to share.
 
 My code has several purposes:
-  🧑‍🎓 Just practice or being an example of something I have learnt
-  ⚙️ Being usefull or interesting
-  🏢 Showing up my work, knowledge and skills for possible recruiters
+  - 🧑‍🎓 Just for practice or as an example of something I have learned
+  - ⚙️ To be useful or interesting
+  - 🏢 To showcase my work, knowledge, and skills for potential recruiters
 
 
